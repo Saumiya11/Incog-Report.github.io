@@ -1,0 +1,58 @@
+{
+	"folders": [
+		{
+			"name": "web dev",
+			"path": "../../OneDrive/Desktop/web dev"
+		},
+		{
+			"name": "4.3 HTML Porfolio Project",
+			"path": "../4.3+HTML+Portfolio+Project/4.3 HTML Porfolio Project"
+		},
+		{
+			"name": "5.3 CSS Selectors",
+			"path": "../../OneDrive/Desktop/web dev/5.3 CSS Selectors"
+		},
+		{
+			"name": "5.4+Color+Vocab+Project",
+			"path": "../../OneDrive/Desktop/web dev/5.4+Color+Vocab+Project"
+		},
+		{
+			"name": "6.0 CSS Colors",
+			"path": "../6.0+CSS+Colors/6.0 CSS Colors"
+		},
+		{
+			"path": "../5.1+Adding+CSS (1)/5.1. Adding CSS"
+		},
+		{
+			"path": "../6.1+Font+Properties"
+		},
+		{
+			"path": "../6.3+CSS+Box+Model/6.3 CSS Box Model"
+		},
+		{
+			"path": "../6.4+Motivation+Meme+Project/6.4 Motivation Meme Project"
+		},
+		{
+			"path": "../7.1+Combining+Selectors/7.1 Combining Selectors"
+		},
+		{
+			"path": "../7.0+CSS+Cascade"
+		},
+		{
+			"path": "../7.3+Flag+Project/7.3 CSS Flag Project"
+		},
+		{
+			"path": "../8.0+CSS+Display"
+		},
+		{
+			"path": "../8.1+CSS+Float"
+		},
+		{
+			"path": "../8.2+Responsiveness/8.2 Responsiveness"
+		},
+		{
+			"path": "../8.3+Media+Query/8.3 Media Query"
+		}
+	],
+	"settings": {}
+}
